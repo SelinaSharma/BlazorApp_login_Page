@@ -11,3 +11,7 @@ Login page is created with Blazor Server App by using c#, html, css in Microsoft
 ![Blazor AppOutputView2](https://user-images.githubusercontent.com/108061339/180435159-f19424e6-ce0a-4a3e-a917-1b79c5acc562.png)
 ![Blazor AppOutputView3](https://user-images.githubusercontent.com/108061339/180435212-1c327b07-b5ff-4b05-a43d-d8b19ed5fc5e.png)
 ![Blazor AppOutputView4](https://user-images.githubusercontent.com/108061339/180435234-3ef7e723-106c-4311-88f1-7b38d308995a.png)
+![Blazor AppOutput_LoginPageView](https://user-images.githubusercontent.com/108061339/180440149-a1cc6940-39ee-47bb-94b4-9951bbf62763.png)
+![Blazor AppOutput_LoginPageView2](https://user-images.githubusercontent.com/108061339/180440209-d8907009-08a2-4b34-a285-b1cb51430880.png)
+![Blazor AppOutput_LoginPageView3](https://user-images.githubusercontent.com/108061339/180440283-ee93480e-d8fe-420b-acf7-fe6325f31da6.png)
+![Blazor AppOutput_RegisterPageView](https://user-images.githubusercontent.com/108061339/180440357-1669fdc1-380e-46b2-8e4c-33e474c3bee4.png)
